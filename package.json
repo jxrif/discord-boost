@@ -1,0 +1,23 @@
+{
+  "name": "discord-boost",
+  "version": "2.0.0",
+  "description": "Fastest and best discord nitro generator available on npmjs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nitro",
+    "free-nitro",
+    "free-nitro-generator",
+    "discord-nitro",
+    "nitro-generator",
+    "discord",
+    "nitro-gen",
+    "nitro-boost",
+    "nitro-classic",
+    "nitro-basic"
+  ],
+  "author": "Jarif",
+  "license": "CC BY-NC-ND 4.0"
+}
