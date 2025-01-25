@@ -1,5 +1,5 @@
 # discord-boost
-<img src="./image/nitro.png" width="350" height="155">
+<img src="https://raw.githubusercontent.com/jxrif/discord-boost/main/image/nitro.png" width="350" height="155">
 
 ## Installation
 
